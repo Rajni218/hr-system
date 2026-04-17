@@ -4,12 +4,6 @@ A full-stack mini HR system for managing employee leave requests, attendance rec
 
 ---
 
-## 🔥 Live Demo (after deployment)
-
-- **Frontend:** `https://hr-system-ten-chi.vercel.app`
-- **Backend API:** `https://hr-system-backend-t2fu.onrender.com`
-
----
 
 ## 📦 Tech Stack & Justification
 
