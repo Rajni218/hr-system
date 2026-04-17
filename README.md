@@ -288,3 +288,5 @@ hr-system/
 2. Set root directory: `frontend`
 3. Framework: Create React App
 4. Add env var: `REACT_APP_API_URL=https://your-backend.render.com/api`
+
+<!-- mongodb+srv://rajni702358_db_user:<db_password>@cluster0.beioin8.mongodb.net/?appName=Cluster0 -->
